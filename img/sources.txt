@@ -1,0 +1,17 @@
+-----------
+- SOURCES -
+-----------
+
+CC0 logo - Markdown
+https://commons.wikimedia.org/wiki/File:Markdown-mark.svg
+
+CC BY 3.0 Jason Long - Git-logo
+https://commons.wikimedia.org/wiki/File:Git-logo.svg
+
+CC BY 4.0 Font Awesome - Font Awesome 5 brands github
+https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg
+
+CC BY 4.0 Darby - GitLab Logo
+https://commons.wikimedia.org/wiki/File:GitLab_Logo.svg
+
+
