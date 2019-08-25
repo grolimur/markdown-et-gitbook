@@ -2,7 +2,7 @@
 
 ## Rédiger en markdown
 
-* [Qu'est-ce que Markdown ?]((01-markdown/README.md)
+* [Qu'est-ce que Markdown ?](01-markdown/README.md)
 * [La syntaxe](01-markdown/01-syntaxe.md)
 * [Les outils](01-markdown/02-outils.md)
 
@@ -14,6 +14,10 @@
 * [Git: les outils](02-gitbook/03-git-outils.md)
 * [GitBook: la structure](02-gitbook/04-gitbook-structure.md)
 * [GitBook: les outils](02-gitbook/04-gitbook-structure.md)
+
+## Références
+
+* [Bibliographie](XX-bibliographie.md)
 
 ## Annexe
 
