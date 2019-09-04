@@ -3,7 +3,7 @@
 Pour insérer une liste de tâches, il faut compléter la syntaxe des listes à puces comme suit:
 
     syntaxe:
-    
+
     - [ ] acheter les ingrédients
     - [ ] cuisiner
     - [ ] manger
@@ -17,7 +17,7 @@ résultat:
 Une fois qu'une tâche est terminée, elle peut être cochée (un `x` remplace l'espace entre les crochets).
 
     syntaxe:
-    
+
     - [x] acheter les ingrédients
     - [x] cuisiner
     - [ ] manger
@@ -31,7 +31,11 @@ résultat:
 
 ---
 
-### Exercices et notes personnelles
+### Mise en pratique
 
-- [ ] ajouter une liste à puce dans votre document
-- [ ] cocher une activité comme terminée
+- [ ] ajoutez une liste à puce dans votre document
+- [ ] cochez une activité qui serait terminée
+
+---
+
+### Notes personnelles

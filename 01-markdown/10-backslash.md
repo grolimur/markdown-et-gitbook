@@ -3,15 +3,15 @@
 Pour empêcher l'éditeur d'interpréter un caractère comme de la syntaxe de structuration et l'afficher dans comme du texte, il faut utiliser le `\`.
 
     syntaxe:
-    
+
     Voici une liste **subjective\* et non exhaustive** de tels logiciels.
-    
+
     \* subjective implique aussi qu'elle ne contient que des logiciels libres :-)
 
 résultat:
 
 > Voici une liste **subjective\* et non exhaustive** de tels logiciels.
-> 
+>
 > \* subjective implique aussi qu'elle ne contient que des logiciels libres :-)
 
 
@@ -32,6 +32,10 @@ Le `\` permet d'éviter l'interprétation des caractères suivants:
 
 ---
 
-### Exercices et notes personnelles
+### Mise en pratique
 
-- [ ] S'il est pertinent de le faire, ajouter quelques caractères d'échappement dans votre document
+- [ ] s'il est pertinent de le faire, ajoutez quelques caractères d'échappement dans votre document
+
+---
+
+### Notes personnelles

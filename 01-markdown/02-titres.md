@@ -19,4 +19,10 @@ Il est aussi possible de produire des titres de niveaux 1 et 2 de la manière su
 
 ---
 
-### Exercices et notes personnelles
+### Mise en pratique
+
+- [ ] ajoutez des titres et sous-titres à votre document
+
+---
+
+### Notes personnelles

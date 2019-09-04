@@ -3,7 +3,7 @@
 Pour insérer un tableau dans un document, il faut respecter la syntaxe suivante:
 
     syntaxe:
-    
+
     | pays | capitale | population |
     | :--- | :------- | ---------: |
     | Belgique | Bruxelles | 11.4 mio. |
@@ -12,11 +12,11 @@ Pour insérer un tableau dans un document, il faut respecter la syntaxe suivante
 
 résultat:
 
-| pays | capitale | population |
-| :--- | :------- | ---------: |
-| Belgique | Bruxelles | 11.4 mio. |
-| Canada | Ottawa | 37.4 mio. |
-| France | Paris | 67.8 mio. |
+| pays | capitale | extension | population |
+| :--- | :------- | :-------: | ---------: |
+| Belgique | Bruxelles | .be | 11.4 mio. |
+| Canada | Ottawa | .ca | 37.4 mio. |
+| France | Paris | .fr | 67.8 mio. |
 
 La première ligne définit l'en-tête du tableau.   
 La deuxième ligne définit l'alignement de chaque colonne.   
@@ -26,9 +26,13 @@ Notez qu'il n'est pas possible de créer des cellules fusionnées ou tout autre 
 
 ---
 
-### Exercices et notes personnelles
+### Mise en pratique
 
-- [ ] insérer un tableau
+- [ ] insérez un tableau dans votre document
 - [ ] définissez une colonne alignée à gauche
 - [ ] définissez une colonne alignée à droite
 - [ ] définissez une colonne alignée au centre
+
+---
+
+### Notes personnelles

@@ -15,4 +15,10 @@ Le lien peut évidemment aussi bien mener vers une ressource externe (lien absol
 
 ---
 
-### Exercices et notes personnelles
+### Mise en pratique
+
+- [ ] ajoutez au moins un lien dans votre document
+
+---
+
+### notes personnelles

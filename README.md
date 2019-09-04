@@ -16,7 +16,7 @@ La formation permet aux participants :
 Raphaël Grolimund [grolimur@nou4.ch](mailto:grolimur@nous4.ch)   
 
 
-## Version `0.0.1.4`
+## Version `0.0.1.6`
 La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/markdown-et-gitbook](https://legacy.gitbook.com/book/grolimur/markdown-et-gitbook).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
@@ -35,3 +35,12 @@ La date de consultation correspond à la date de publication de la présente ver
 
 
 ## Crédits
+
+Les logos utilisés dans ce document ont été publiés sous les licences suivantes par leur auteur :
+
+CC0 logo - Markdown (https://commons.wikimedia.org/wiki/File:Markdown-mark.svg)   
+CC BY 3.0 Jason Long - Git-logo (https://commons.wikimedia.org/wiki/File:Git-logo.svg)   
+CC BY 4.0 Font Awesome - Font Awesome 5 brands github (https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg)   
+CC BY 4.0 Darby - GitLab Logo (https://commons.wikimedia.org/wiki/File:GitLab_Logo.svg)   
+
+Seul le logo de GitBook provient directement de la plateforme.

@@ -3,11 +3,11 @@
 Pour séparer deux parties d'un texte, d'une page ou autre, vous pouvez insérer une ligne horizontale à l'aide de `---`.
 
     syntaxe:
-    
+
     partie 1
-    
+
     ---
-    
+
     partie 2
 
 résultat:
@@ -23,7 +23,7 @@ Veillez toutefois à bien laisser une ligne vide entre le texte qui précède et
 Notez que les syntaxes ci-dessous porduisent exactement le même résultat.
 
     syntaxes:
-    
+
     * * *
 
     ***
@@ -37,5 +37,10 @@ Notez que les syntaxes ci-dessous porduisent exactement le même résultat.
 
 ---
 
-### Exercices et notes personnelles
+### Mise en pratique
 
+- [ ] ajoutez une séparation dans votre document
+
+---
+
+### notes personnelles
