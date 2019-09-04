@@ -28,6 +28,8 @@ résultat:
 - [x] cuisiner
 - [ ] manger
 
+Notez que cette fonction, qui peut s'avérer très utile, n'est pas vraiment supportée par GitBook.
+
 
 ---
 

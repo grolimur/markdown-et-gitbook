@@ -29,11 +29,11 @@ Git a des fonctions très poussées qui ne sont pas utiles ici. Pour en savoir p
 
 ![](../img/github.svg)
 
-GitHub, pour sa part, est une plateforme d'hébergement et de gestion de développement, utilisé principalement pour la mise à disposition de logiciel open source. Cette plateforme a contribué à la popularité de Git. C'est un exemple de dépôt distant vers lequel on peut pousser (`git push`) les modifications faites sur son ordinateur.
+[GitHub](https://github.com), pour sa part, est une plateforme d'hébergement et de gestion de développement, utilisé principalement pour la mise à disposition de logiciel open source. Cette plateforme a contribué à la popularité de Git. C'est un exemple de dépôt distant vers lequel on peut pousser (`git push`) les modifications faites sur son ordinateur.
 
 ![](../img/gitlab.svg)
 
-[GitLab](https://gitlab.com/), plateforme commerciale similaire à GitHub, met à disposition le [code source](https://gitlab.com/gitlab-org/gitlab-ce) de base permettant de créer son propre dépôt Git (ex. [Framagit](https://framagit.org)).
+[GitLab](https://gitlab.com), plateforme commerciale similaire à GitHub, met à disposition le [code source](https://gitlab.com/gitlab-org/gitlab-ce) de base permettant de créer son propre dépôt Git (ex. [Framagit](https://framagit.org)).
 
 ---
 

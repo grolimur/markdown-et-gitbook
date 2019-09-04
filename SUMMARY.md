@@ -3,19 +3,19 @@
 ## Rédiger en Markdown
 
 * [Qu'est-ce que Markdown ?](01-markdown/README.md)
-* [paragraphe](01-paragraphe.md)   
-* [titres](02-titres.md)   
-* [citations](03-citations.md)   
-* [listes à puces](04-listes.md)   
-* [code](05-code.md)   
-* [ligne horizontale](06-ligne.md)   
-* [liens hypertextes](07-liens.md)   
-* [accentuation](08-accentuation.md)   
-* [images](09-images.md)   
-* [backslash](10-backslash.md)   
-* [tableaux](11-tableaux.md)   
-* [liste de tâches](12-taches.md)   
-* [retour à la ligne](13-retour-ligne.md)   
+* [paragraphe](01-markdown/01-paragraphe.md)   
+* [titres](01-markdown/02-titres.md)   
+* [citations](01-markdown/03-citations.md)   
+* [listes à puces](01-markdown/04-listes.md)   
+* [code](01-markdown/05-code.md)   
+* [ligne horizontale](01-markdown/06-ligne.md)   
+* [liens hypertextes](01-markdown/07-liens.md)   
+* [accentuation](01-markdown/08-accentuation.md)   
+* [images](01-markdown/09-images.md)   
+* [backslash](01-markdown/10-backslash.md)   
+* [tableaux](01-markdown/11-tableaux.md)   
+* [liste de tâches](01-markdown/12-taches.md)   
+* [retour à la ligne](01-markdown/13-retour-ligne.md)   
 
 ## Publier avec GitBook
 
@@ -26,7 +26,7 @@
 
 ## Bonus
 
-* [transposer et convertir](03-bonus/README.md)
+* [Transposer et convertir](03-bonus/README.md)
 
 ## Références
 

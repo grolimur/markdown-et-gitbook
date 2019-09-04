@@ -38,9 +38,9 @@ Par ailleurs, la syntaxe originale de Markdown étant vraiment minimaliste, plus
 
 Ces "dialectes" de Markdown offrent un certain nombre d'extensions dont les suivantes:
 
-11\. [tableaux](11-tableaux.md)   
-12\. [liste de tâches](12-taches.md)   
-13\. [retour à la ligne](13-retour-ligne.md)   
+11. [tableaux](11-tableaux.md)   
+12. [liste de tâches](12-taches.md)   
+13. [retour à la ligne](13-retour-ligne.md)   
 
 Nous allons découvrir tout cela ensemble par la pratique.   
 Pour créer un document Markdown, n'importe quel éditeur de texte convient. Il est toutefois plus agréable d'utiliser un éditeur prenant en charge Markdown pour la coloration syntaxique. Voici une liste **subjective et non exhaustive** de tels logiciels.
