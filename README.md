@@ -16,7 +16,7 @@ La formation permet aux participants :
 Raphaël Grolimund [grolimur@nou4.ch](mailto:grolimur@nous4.ch)   
 
 
-## Version `0.0.1.7`
+## Version `0.0.1.8`
 La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/markdown-et-gitbook](https://legacy.gitbook.com/book/grolimur/markdown-et-gitbook).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
