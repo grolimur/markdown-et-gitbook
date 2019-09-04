@@ -1,4 +1,4 @@
-## structure
+## structure d'un document
 
 La structure d'un document varie selon la forme de GitBook qui a été choisie.
 

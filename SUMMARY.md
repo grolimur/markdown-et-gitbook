@@ -1,11 +1,8 @@
 # SUMMARY
 
-## Rédiger en markdown
+## Rédiger en Markdown
 
 * [Qu'est-ce que Markdown ?](01-markdown/README.md)
-
-#### Markdown: syntaxe
-
 * [paragraphe](01-paragraphe.md)   
 * [titres](02-titres.md)   
 * [citations](03-citations.md)   
@@ -25,7 +22,7 @@
 * [Qu'est-ce que GitBook ?](02-gitbook/README.md)
 * [Git](02-gitbook/00-git.md)
 * [GitBook](02-gitbook/01-gitbook.md)
-* [structure](02-gitbook/02-structure.md)
+* [structure d'un document](02-gitbook/02-structure.md)
 
 ## Bonus
 
