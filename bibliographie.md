@@ -2,7 +2,7 @@
 
 Cette liste fournit aussi bien les références des ouvrages cités dans le présent document que des lectures supplémentaires qui peuvent intéressés toutes les personnes intéressées par Markdown, GitBook et tous les outils qui s'y apparentent. Il convient toutefois de ne pas perdre de vue qu'il s'agit d'une **liste sélective et subjective**.
 
-Cette bibliographie évoluera dans le futur, mais la version à jour sera disponible sur [Zotero](https://www.zotero.org/groups/2364506/markdown/items).
+Cette bibliographie évoluera dans le futur, mais la version à jour sera disponible sur [https://www.zotero.org/groups/2364506/markdown/items](https://www.zotero.org/groups/2364506/markdown/items).
 
 ---
 

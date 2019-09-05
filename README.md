@@ -16,7 +16,7 @@ La formation permet aux participants :
 Raphaël Grolimund [grolimur@nou4.ch](mailto:grolimur@nous4.ch)   
 
 
-## Version `0.0.1.9`
+## Version `0.1`
 La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/markdown-et-gitbook](https://legacy.gitbook.com/book/grolimur/markdown-et-gitbook).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
@@ -33,6 +33,7 @@ Les fichiers source sont disponibles sur [https://framagit.org/grolimur/markdown
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
 La date de consultation correspond à la date de publication de la présente version.   
 
+Cette formation suit la philosophie du *dogfooding* (ou *Eat your own dog food*) qui consiste à utiliser les outils qu'on crée, ou dans le cas présent, qu'on enseigne. Ce document a été rédigé en Markdown et publié sur GitBook.
 
 ## Crédits
 
